@@ -72,5 +72,5 @@ Building practical full-stack applications and developing my skills toward becom
 ## 🔗 Connect With Me
 
 📧 [Email](anjalikumari25012@gmail.com)
-💼 [LinkedIn](www.linkedin.com/in/anjali-kumari-34635533a)
-🧩 [LeetCode](https://github.com/Anjali266-kumari)
+💼 [LinkedIn](https://www.linkedin.com/in/anjali-kumari-34635533a)
+🧩 [LeetCode](https://leetcode.com/u/Anjalikumari90/)
