@@ -27,7 +27,7 @@ Git • GitHub • Postman • VS Code • IntelliJ IDEA • Eclipse IDE
 
 ## 💼 Experience
 
-### Software Engineer Intern — Beckkon Systems Private Limited
+### Software Developer Intern — Beckkon Systems Private Limited
 
 **May 2026 – July 2026 | Remote**
 
