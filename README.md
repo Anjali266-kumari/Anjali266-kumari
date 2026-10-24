@@ -6,6 +6,12 @@
 🚀 Software Engineer Intern at Beckkon Systems Private Limited.
 🌱 Currently strengthening my skills in Java, Data Structures & Algorithms, and backend development.
 
+## 🔗 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjalikumari25012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kumari-34635533a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anjalikumari90/)
+
 ## 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -75,9 +81,3 @@ Java • Data Structures & Algorithms • Backend Development
 ## 🎯 Career Focus
 
 Building practical full-stack applications and developing my skills toward becoming a Software Engineer.
-
-## 🔗 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjalikumari25012@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kumari-34635533a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Anjalikumari90/)
